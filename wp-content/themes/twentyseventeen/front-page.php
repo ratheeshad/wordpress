@@ -47,7 +47,7 @@ get_header(); ?>
 			}
 
 	endif; // The if ( 0 !== twentyseventeen_panel_count() ) ends here. ?>
-
+	echo "hi"
 	</main><!-- #main -->
 </div><!-- #primary -->
 
